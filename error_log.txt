@@ -1,0 +1,1 @@
+[04-Oct-2014 21:02:47 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/paulo/NetBeansProjects/PhpProject2/Core/Model.php on line 25
